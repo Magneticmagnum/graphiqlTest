@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "graphiql": "^0.10.1",
+    "graphql": "^0.9.4",
     "isomorphic-fetch": "^2.2.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
